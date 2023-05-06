@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\Game of life\bin\Debug\Game of life.exe.config
+C:\Users\Wiz\Desktop\Game of life\bin\Debug\Game of life.exe
+C:\Users\Wiz\Desktop\Game of life\bin\Debug\Game of life.pdb
+C:\Users\Wiz\Desktop\Game of life\obj\Debug\Game of life.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\Game of life\obj\Debug\Game of life.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\Game of life\obj\Debug\Game of life.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\Game of life\obj\Debug\Game of life.exe
+C:\Users\Wiz\Desktop\Game of life\obj\Debug\Game of life.pdb
